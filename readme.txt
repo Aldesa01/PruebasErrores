@@ -1,2 +1,5 @@
+<<<<<<< HEAD
+Álvaro De Jorge Salcedo
+=======
 Miguel Angel Perez Mocholi
-Diego Monterde Peinado
+diego monterde
